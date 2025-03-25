@@ -1,0 +1,16 @@
+.main-title{color:rgb(19, 61, 179); font-size:35px;padding-bottom:none}
+
+.search-bar{align-items:center; font-weight:bolder; font-style:normal}
+
+input{height:30px; width: 200px; align-items: center;font-size: 30px;  border:none;border-color:white;outline: none;}
+
+input{padding-left:10px; padding-top:10px; align-items:center; border:none;border-color:white; background-color: #f6f6f6;outline: none}
+
+::placeholder{font-size: 25px; font-style:normal; color:#333333;align-items: center;margin-left: 14px;;}
+ 
+.search-bar{border-color:blue; border-radius:25px; border-style: solid; border-width:3px;width: max-content; display: flex; align-items: center;padding: 14px;border-radius: 28px;background: #f6f6f6;}
+
+span{padding-top: 15px;padding-left: 10px; align-items:center;}
+
+
+
